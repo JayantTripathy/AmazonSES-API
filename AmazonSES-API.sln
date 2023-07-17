@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33209.295
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AmazonSES-API", "AmazonSES-API\AmazonSES-API.csproj", "{ACEBCD8B-7296-4368-AAB0-D75C287F4BC0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACEBCD8B-7296-4368-AAB0-D75C287F4BC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACEBCD8B-7296-4368-AAB0-D75C287F4BC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACEBCD8B-7296-4368-AAB0-D75C287F4BC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACEBCD8B-7296-4368-AAB0-D75C287F4BC0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FBCAFD40-7653-490C-BF8F-3C2A0A1B592E}
+	EndGlobalSection
+EndGlobal
